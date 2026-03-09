@@ -9,13 +9,13 @@ Modelo-Vista-Controlador (MVC). El servidor se ejecutará en el puerto 3005 y es
 peticiones GET.
 
 ## Tecnologías
-Node.js v20+ (módulos ES con .mjs)
-Express v4 (libreria utilizada)
-NPM (gestiona las librerias del proyecto)
+- Node.js v20+ (módulos ES con .mjs)
+- Express v4 (libreria utilizada)
+- NPM (gestiona las librerias del proyecto)
 
 ## Requisitos previos
-Node.js >= 18 instalado en tu máquina
-NPM >= 9 (se instala junto con Node.js)
+- Node.js >= 18 instalado en tu máquina
+- NPM >= 9 (se instala junto con Node.js)
 
 ## Estructura del proyecto
 /project-root
