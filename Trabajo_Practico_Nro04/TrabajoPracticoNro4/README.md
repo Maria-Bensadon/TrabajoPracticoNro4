@@ -18,7 +18,9 @@ peticiones GET.
 - NPM >= 9 (se instala junto con Node.js)
 
 ## Estructura del proyecto
-/project-root
+
+/TrabajoPracticoNro4
+
     | -- /models
             |-- superheroe.mjs
     
