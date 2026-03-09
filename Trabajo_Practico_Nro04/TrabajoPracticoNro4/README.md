@@ -21,20 +21,20 @@ peticiones GET.
 
 /TrabajoPracticoNro4
 
-    | -- /models
+    | -- /Modelo
             |-- superheroe.mjs
     
-    | -- /controllers
+    | -- /Controlador
             |-- superheroesController.mjs
     
-    | -- /services
+    | -- /Services
             |-- superheroesService.mjs
     
-    | -- / reposito ry
+    | -- /Repository
             |-- superheroesRepository.mjs
             |-- superheroesDataSource.mjs
 
-    | -- /views
+    | -- /Vista
             |-- responseView.mjs
     
     |-- server.mjs
