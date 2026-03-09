@@ -13,10 +13,6 @@ peticiones GET.
 - Express v4 (libreria utilizada)
 - NPM (gestiona las librerias del proyecto)
 
-## Requisitos previos
-- Node.js >= 18 instalado en tu máquina
-- NPM >= 9 (se instala junto con Node.js)
-
 ## Estructura del proyecto
 
 /TrabajoPracticoNro4
