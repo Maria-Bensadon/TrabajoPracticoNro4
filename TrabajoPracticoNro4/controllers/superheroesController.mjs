@@ -26,7 +26,7 @@ import { renderizarSuperheroe, renderizarlistaSuperheroes }
 export function obtenerSuperheroePoridController(req, res) {
 
     // se obtiene el id y se guarda en una variable
-    const id  = req.params;
+    const id  = req.params.id;
  
     // se utiliza la funcion "parselnt" para convertir el id a numero entero.
     const superheroe = obtenerSuperheroePorid(parseInt(id));

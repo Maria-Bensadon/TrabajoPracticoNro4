@@ -16,6 +16,7 @@ const app = express();
 const puerto = 3005;
 
 // solicitud ID: http://localhost:3005/superheroes/id/:id
+// http://localhost:3005/superheroes/id/1
 // endpoint 1: peticion GET para el ID del superheroe
 app.get('/superheroes/id/:id', obtenerSuperheroePoridController);
 
